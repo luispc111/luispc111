@@ -1,4 +1,13 @@
-### Hi there 👋
+### "Hello there"
+
+My name is Luis Alberto, I am a computer science student at Tec de Monterrey. I am passionate about programming, sports and spreading good vibes. I'm still on the way to finding what I want to specialize in, so, I'm open to learning whatever gets in my way.
+
+I've got two goals as a software engineer:
+- To help solve real life problems.
+- To make hard things, easy with technology. 
+
+You can find me on twitter and instagram as *@luispc111* 
+
 
 <!--
 **luispc111/luispc111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
